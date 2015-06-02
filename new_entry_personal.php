@@ -1,4 +1,4 @@
-<div class="row col-md-10 paddingleft">
+<div class="row col-md-12 paddingleft">
 	<h3> - Driving License </h3>
 
 	    <form id="driving_license_form">
